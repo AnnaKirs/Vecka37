@@ -58,6 +58,10 @@
 ![Ditto -V Command Example](/assets/Git%20Log%20command.png)
 
 <br>
+
+- ***git reset*** - 
+
+<br>
 <br>
 
 ## MER OM GITHUB OCH MARKDOWN
