@@ -70,7 +70,7 @@
 
 ### Som vi har själv lärt oss om Markdown:
 
-- ***\<br>*** - att få extra rader mellan paragrafer. [KÄLLA](https://docs.document360.com/docs/how-to-add-extra-space-in-markdown)
+- ***br i <>*** - att få extra rader mellan paragrafer. [KÄLLA](https://docs.document360.com/docs/how-to-add-extra-space-in-markdown)
 
 - *** ***bold och italic font*** *** - för att dra uppmärksamhet till en bit text. [KÄLLA](https://www.markdownguide.org/basic-syntax/)
 
@@ -78,4 +78,6 @@
 
 - Att man kan skapa repositories i Github men också direkt i Terminalen
 
+- Hur man skapar en Pull Request. Här är min [Pull Request](https://github.com/AnnaKirs/Vecka37/pull/1).
 
+<br>
